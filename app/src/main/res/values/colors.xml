@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown">#654321</color>
+    <color name ="orange">#FFA500</color>
+    <color name="teal">#FF03DAC5</color>
+
+    <color name ="backg">#4169E1</color>
+    <color name = "category">#E75480</color>
+    <color name = "click">#FF6200EE</color>
+    <color name="purple">#FF3700B3</color>
+    <color name="blue">#0000FF</color>
+    <color name="c">#e8e4fa</color>
+</resources>
