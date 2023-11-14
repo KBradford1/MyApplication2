@@ -6,12 +6,12 @@ import com.example.myapplication.R
 
 
 class SetsActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_sets)
+    //override fun onCreate(savedInstanceState: Bundle?) {
+      //  super.onCreate(savedInstanceState)
+       // setContentView(R.layout.activity_sets)
 
 
-        supportActionBar?.hide()
+      //  supportActionBar?.hide()
 
-    }
+   // }
 }
